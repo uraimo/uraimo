@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Umberto Raimondi's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 8252, Total Commits  (last year) : 108, Total PRs: 83, Total Issues: 80, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 8253, Total Commits  (last year) : 108, Total PRs: 83, Total Issues: 80, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 75.17463440380475;
+        stroke-dashoffset: 75.17457363637854;
       }
     }
   
