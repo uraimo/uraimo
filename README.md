@@ -3,7 +3,7 @@
 ### Current Projects
 
 - 👺 [Bashobot](https://github.com/uraimo/bashobot): An OpenClaw inspired personal assistant in 4k lines of Bash!
-- ✅ [run-on-arch-action](https://github.com/uraimo/run-on-arch-action): A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le) using a virtualized environment.
+- ✅ [run-on-arch-action](https://github.com/uraimo/run-on-arch-action): A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le,riscv64) using a virtualized environment.
 
 ### Legacy Projects
 
