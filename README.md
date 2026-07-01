@@ -14,14 +14,6 @@
 - 🧠 [SwiftyLISP](https://github.com/uraimo/SwiftyLISP): A minimal LISP implemented in Swift.
 
 
-### Latest Blog Posts
-
-- [A Long Overdue Update on Swift 5.0 For Raspberry Pi Zero/1/2/3](https://www.uraimo.com/2019/04/11/A-long-overdue-update-on-Swift-5-0-for-raspberry-pi-zero-1-2-3/)
-- [A Big Update on Swift 4.1.2 For Raspberry Pi Zero/1/2/3](https://www.uraimo.com/2018/06/13/A-big-update-on-Swift-4-1-2-for-raspberry-pi-zero-1-2-3/)
-- [A Small Update on Swift For Raspberry Pi Zero/1/2/3](https://www.uraimo.com/2017/09/06/A-small-update-on-Swift-for-raspberry-pi-zero-1-2-3/)
-- [All about Concurrency in Swift - Part 2: The Future](https://www.uraimo.com/2017/07/22/all-about-concurrency-in-swift-2-the-future/)
-- [All about Concurrency in Swift - Part 1: The Present](https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/)
-
 ### Socials
 
 * Twitter: [@uraimo](https://twitter.com/uraimo)
