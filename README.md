@@ -19,6 +19,3 @@
 * Twitter: [@uraimo](https://twitter.com/uraimo)
 * Mastodon: [@uraimo](https://mas.to/uraimo)
 
-### GitHub Activity
-
-![Stats](./profile/stats.svg)
